@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/web-app/public/static/css/main.754ebb54.css",
+    "main.js": "/web-app/public/static/js/main.af2ef5a2.js",
+    "static/media/omak_logo_04-300x150.png": "/web-app/public/static/media/omak_logo_04-300x150.469a42493519d31b6208.png",
+    "index.html": "/web-app/public/index.html",
+    "main.754ebb54.css.map": "/web-app/public/static/css/main.754ebb54.css.map",
+    "main.af2ef5a2.js.map": "/web-app/public/static/js/main.af2ef5a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.754ebb54.css",
+    "static/js/main.af2ef5a2.js"
+  ]
+}
