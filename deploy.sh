@@ -13,5 +13,6 @@ gcloud run deploy felisa-frontend \
   --image gcr.io/$PROJECT_ID/$APP_NAME \
   --platform managed \
   --region $REGION \
+  --set-env-vars API_URL=https://felisa-backend.hop.sh
   --allow-unauthenticated
 
