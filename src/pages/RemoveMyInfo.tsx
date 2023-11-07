@@ -18,7 +18,7 @@ const RemoveMyInfo = () => {
 
     try {
       const response = await fetch(
-        `https://felisa-backend.hop.sh/api/v1/users/delete-my-information/${uniqueID}`,
+        `https://api.omakbolivia.org/api/v1/users/delete-my-information/${uniqueID}`,
         {
           method: "DELETE",
           headers: {
