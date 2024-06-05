@@ -50,7 +50,7 @@ const homeInfo = {
     {
       title: 'Comunicarte con una hermana promotora',
       summary:
-        'Si necesitas más información no dudes en llamarme o escribirme al celular que cuenta con WhatsApp 64034500, conmigo puedes contar con orientación directa, este espacio es un esfuerzo articulado con Promotoras Comunitarias y el Servicio Integral de Atención de OMAK que junto a otras organizaciones buscan soluciones alternativas para una vida libre de violencia y para que puedas contar con atención especializada.',
+        'Si necesitas más información no dudes en llamarme o escribirme al celular que cuenta con WhatsApp 64042026, conmigo puedes contar con orientación directa, este espacio es un esfuerzo articulado con Promotoras Comunitarias y el Servicio Integral de Atención de OMAK que junto a otras organizaciones buscan soluciones alternativas para una vida libre de violencia y para que puedas contar con atención especializada.',
       imgUrl:
         'https://yanapiri.omakbolivia.org/wp-content/uploads/2021/10/icono05-150x150.png',
     },

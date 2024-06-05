@@ -14,7 +14,7 @@ import { Box, Fab } from "@mui/material";
 
 const Layout = () => {
   const onWhatsapp = () => {
-    window.open("https://wa.me/64034500", "_blank", "noreferrer");
+    window.open("https://wa.me/64042026", "_blank", "noreferrer");
   };
   return (
     <>
